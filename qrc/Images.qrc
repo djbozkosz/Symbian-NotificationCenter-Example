@@ -1,0 +1,5 @@
+<RCC>
+	<qresource prefix="/images/icons">
+		<file alias="notification.png">../images/icons/notification.png</file>
+	</qresource>
+</RCC>
