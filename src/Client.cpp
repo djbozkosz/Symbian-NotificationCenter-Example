@@ -50,6 +50,7 @@ Client::Client() :
 
 Client::~Client()
 {
+	m_Notifications->deleteLater();
 }
 
 void Client::Initialize()
